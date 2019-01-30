@@ -6,5 +6,7 @@ public class Student {
 	 System.out.println("++++++++++");
 	 System.out.println("BBBBBBBBBB12");
 	 System.out.println("15711255657");
+	 System.out.println("410522424");
+
  }
 }
