@@ -9,5 +9,6 @@ public class Student {
 	 System.out.println("410522424");
      System.out.println("zhangsan");
      System.out.println("lisi");
+     System.out.println("--");
  }
 }
