@@ -4,6 +4,6 @@ public class Student {
  public void test() {
 	 System.out.println("---------");
 	 System.out.println("++++++++++");
-	 System.out.println("BBBBBBBBBB1");
+	 System.out.println("BBBBBBBBBB");
  }
 }
