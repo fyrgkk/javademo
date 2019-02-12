@@ -3,6 +3,9 @@ package com.highlion.entity;
 public class Cat {
 private int id;
 private int name;
+public Cat() {
+	// TODO Auto-generated constructor stub
+}
 public int getId() {
 	return id;
 }
