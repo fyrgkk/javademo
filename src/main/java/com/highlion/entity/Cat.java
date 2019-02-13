@@ -6,6 +6,13 @@ private int name;
 public Cat() {
 	// TODO Auto-generated constructor stub
 }
+
+public Cat(int id, int name) {
+	super();
+	this.id = id;
+	this.name = name;
+}
+
 public int getId() {
 	return id;
 }
