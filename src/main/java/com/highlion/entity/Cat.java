@@ -28,6 +28,7 @@ public void setName(int name) {
 @Override
 	public String toString() {
 		// TODO Auto-generated method stub
+	System.out.println("----------");
 		return super.toString();
 	}
 
