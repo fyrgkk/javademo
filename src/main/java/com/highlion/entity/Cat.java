@@ -5,6 +5,7 @@ private int id;
 private int name;
 public Cat() {
 	// TODO Auto-generated constructor stub
+	System.out.println("此处修改...");
 }
 
 public Cat(int id, int name) {
